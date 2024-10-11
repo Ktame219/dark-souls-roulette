@@ -7,9 +7,22 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.description-text {
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
 .roulette {
     display: flex;
     gap: 20px;
+}
+
+.result-text {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
 }
 
 .slot {
